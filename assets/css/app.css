@@ -1,0 +1,18 @@
+/* This file is for your main application css. */
+
+.godot-logo {
+    width: 200px;
+    height: 80px;
+    display: inline-block;
+    background-image: url("/images/godot.jpg");
+    background-repeat: no-repeat;
+    background-size: 200px;
+  }
+
+  .jumbotron .flip-clock-wrapper {
+    text-align: center;
+    position: relative;
+    width: auto;
+    margin-top: 8em;
+    display: inline-block;
+ }
